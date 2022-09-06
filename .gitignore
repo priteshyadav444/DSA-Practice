@@ -1,2 +1,4 @@
 *.exe
 /Array/*.exe
+.vscode
+/*/.vscode
