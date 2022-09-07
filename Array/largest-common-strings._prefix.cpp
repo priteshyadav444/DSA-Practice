@@ -42,7 +42,7 @@ class Solution{
         if(res=="") return "-1";
         return res;
     }
-
+};
 //{ Driver Code Starts.
 int main()
 {
@@ -58,7 +58,3 @@ int main()
         cout << ob.longestCommonPrefix_2(arr, n) << endl;
     }
 }
-
-// Contributed By: Pranay Bansal
-
-// } Driver Code Ends
