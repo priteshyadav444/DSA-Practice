@@ -1,3 +1,3 @@
 # DSA-Practice
 
-All Solved Problems Topic Wise Solutions.
+Topic wise(Easy, Medium, Hard) Problem Solution
